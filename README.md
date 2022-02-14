@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinay Raj
 - 👀 I’m interested in DevOps and Full stack Development 
-- 🌱 I’m currently learning and updating all my Skills (DevOps, Full Stack Devlopment, Mobile App Development)
+- 🌱 I’m currently learning several Skills (DevOps, Full Stack Devlopment, Mobile App Development) from Online sources.
 - 💞️ I’m looking to collaborate on things I can do
 - 📫 How to reach me vinayrajtheegala@gmail.com or @knowvinay on instagram
 
