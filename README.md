@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps and Full stack Development 
 - 🌱 I’m currently learning several Skills (DevOps, Full Stack Devlopment, Mobile App Development) from Online sources.
 - 💞️ I’m looking to collaborate on things I can do
-- Creadted my own blog using Netlify and eleventy you can visit by [clicking here](https://vinay-raj-blog.netlify.app/)
+- ✔  Created my own blog using Netlify and eleventy you can visit by [clicking here](https://vinay-raj-blog.netlify.app/)
 
 <!---
 Vinay541/Vinay541 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
